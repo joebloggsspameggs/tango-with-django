@@ -25,7 +25,7 @@ SECRET_KEY = 'w-3b55n6%z3njq(onpj+p@#d^&73c99&w%%k7on3$w!bc-^!zz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cachaoonpython.pythonanywhere.com']
 
 
 # Application definition
